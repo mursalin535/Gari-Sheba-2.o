@@ -98,8 +98,8 @@ export default function Track() {
               isHovering ? "opacity-10" : "opacity-100"
             } text-xl sm:text-2xl md:text-3xl lg:text-4xl`}
           >
-            <span className="block text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold">Trac</span>
-            <span className="block">k Traffic Records</span>
+            <span className="block text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold">Track</span>
+            <span className="block"> Traffic Records</span>
           </h1>
         </div>
 
